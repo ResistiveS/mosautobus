@@ -1,6 +1,6 @@
 ![alt text](https://github.com/ResistiveS/mosautobus/blob/8ae0b45dad1210d712411f6ac87236d6aad4cdbb/SCREEN_AUTOBUS.png)
 # mosautobus
-Максимально примитивное расписание автобусов Москвы с веб-мордой на next
+Максимально примитивное расписание автобусов Москвы с веб-мордой на next с возможностью ебошить офлайн
 
 Общее назначение
 
